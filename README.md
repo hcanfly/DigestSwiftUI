@@ -4,7 +4,7 @@ DigestSwiftUI is an iOS 15 SwiftUI app that requires Xcode 13. It uses the new T
 
 
 
-<img src="Screenshot.png width="400">
+<img src="Screenshot.png" width="400">
 
 
 ## License
